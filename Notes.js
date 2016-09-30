@@ -26,3 +26,12 @@ var a = 42;
 let b = 2;
 
 const a = 42;
+
+// declaring functions
+function foo() {}
+
+// function expressions
+var bar = function() {}
+var bar = function baz() {}
+
+// invoke the function
